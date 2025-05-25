@@ -181,19 +181,3 @@ Built and maintained with ❤️ by [Nkiko Hertier](https://github.com/nkiko-her
 ## 📜 License
 
 MIT License
-
-```
-
----
-
-### ✅ Next Steps (Optional)
-
-Let me know if you'd like to also:
-
-- Convert this into a markdown site (with Docusaurus or VitePress)
-- Generate automatic prop types from your components
-- Add CI/CD for publishing updates to NPM
-- Add badges (version, license, downloads) at the top
-
-Just say the word and I’ll help you set it all up.
-```
