@@ -1,0 +1,31 @@
+{
+  "name": "react-birds",
+  "version": "1.0.0",
+  "description": "Birds library Allows you to build robust dashboard faster, with starter components such as Layout, Form, Inputs and AuthPage",
+  "main": "index.js",
+  "keywords": [
+    "auth",
+    "DashBoard Builder",
+    "Nkiko Hertier",
+    "smart",
+    "fast dashboard",
+    "snaow",
+    "Developer Nkiko"
+  ],
+  "author": "Nkiko Hertier",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0"
+  }
+}
